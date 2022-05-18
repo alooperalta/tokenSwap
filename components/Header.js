@@ -40,7 +40,7 @@ function Header() {
         <a 
           href="https://info.uniswap.org/#/"
           target="_blank"
-          rel="noreffer"
+          rel="noreferrer"
         >
           <div className={style.navItem}>
             Charts <FiArrowUpRight />
